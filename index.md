@@ -1,14 +1,7 @@
-
-
-
-
-
-
-
-# Francesca Pontin
+# About
 PhD student at the University of Leeds
 
-Based in Leeds Institute for Data Analytics & the School of Geogrpahy
+Based in Leeds Institute for Data Analytics [https://lida.leeds.ac.uk/] & the School of Geogrpahy [https://www.geog.leeds.ac.uk/research/csap/]
 
 ## _Research Interests_
 - Built Environment and Physical Activity
