@@ -1,5 +1,7 @@
 ## Contact
 
 Email: fs14fp@leeds.ac.uk
-Twitter: [https://twitter.com/]
-Github: [https://github.com/FrancescaPontin/githubintro]
+
+Twitter: [@PontinFrancesca](https://twitter.com/PontinFrancesca)
+
+Github: [francescapontin.github.io](https://github.com/FrancescaPontin/githubintro)
