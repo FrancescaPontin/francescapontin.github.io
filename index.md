@@ -1,13 +1,17 @@
 # About
-PhD student at the University of Leeds
+PhD Student at The University of Leeds
+Based in Leeds Institute for Data Analytics [https://lida.leeds.ac.uk/] 
+& the School of Geography [https://www.geog.leeds.ac.uk/research/csap/]
 
-Based in Leeds Institute for Data Analytics [https://lida.leeds.ac.uk/] & the School of Geogrpahy [https://www.geog.leeds.ac.uk/research/csap/]
+Part of the Data Analytics and Society CDT (Second Year) [https://datacdt.org/]
+
 
 ## _Research Interests_
 - Built Environment and Physical Activity
-
-
-
+- Novel measures of Physical Activity
+- Spatial patterns of Health
+- Dietary assessment
+- Whole systems approaches to Obesity
 
 
 
