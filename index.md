@@ -7,26 +7,11 @@ Part of the Data Analytics and Society CDT (Second Year) [https://datacdt.org/]
 
 
 ## _Research Interests_
-- Built Environment and Physical Activity
-- Novel measures of Physical Activity
-- Spatial patterns of Health
-- Dietary assessment
-- Whole systems approaches to Obesity
+- _Built Environment and Physical Activity_
+- _Novel measures of Physical Activity_
+- _Spatial patterns of Health_
+- _Dietary assessment_
+- _Whole systems approaches to Obesity_
 
 
 
-
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
