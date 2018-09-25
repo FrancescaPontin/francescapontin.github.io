@@ -12,8 +12,7 @@ Github: [francescapontin.github.io](https://github.com/FrancescaPontin/githubint
 
 <div class="center">
 
-<blockquote class="twitter-tweet" data-partner="tweetdeck"><p lang="en" dir="ltr">Thanks to <a href=https://twitter.com/PontinFrancesca</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet" data-partner="tweetdeck"><p lang="en" dir="https://twitter.com/NikLomax/status/1039150425780445185</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 </div>
 
