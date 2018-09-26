@@ -3,7 +3,7 @@ PhD Student at The University of Leeds
 
 Based in Leeds Institute for Data Analytics & the School of Geography
 
-Part of the Data Analytics and Society CDT (Second Year) [https://datacdt.org/]
+Part of the Data Analytics and Society CDT (Second Year)
 
 
 ## _Research Interests_
