@@ -13,7 +13,7 @@ Part of the Data Analytics and Society CDT (Second Year)
 - _Dietary assessment_
 - _Whole systems approaches to Obesity_
 
-![GitHub Logo](/images/logo.png)
+![GitHub Logo](/2.png)
 
 
 
