@@ -1,4 +1,4 @@
-theme: jekyll-theme-slate
+theme: jekyll-theme-minimal
 $nb-themes: nb-register-theme((
  // app wise variables for each theme
   sidebar-header-gap: 2rem,
