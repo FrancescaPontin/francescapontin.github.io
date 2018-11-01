@@ -2,7 +2,4 @@
 ---
 
 @import "{{ jekyll.theme }}";
-$nb-themes: nb-register-theme(
-  layout-content-width: 1400px,
-        header-bg: ![GitHub Logo](/2.png), //header-bg is the variable you need
-), default, default);
+
