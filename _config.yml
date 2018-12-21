@@ -1,11 +1,1 @@
-theme: jekyll-theme-minimal
-$nb-themes: nb-register-theme((
- // app wise variables for each theme
-  sidebar-header-gap: 2rem,
-  sidebar-header-height: initial,
-  layout-content-width: 1400px,
-        header-bg: blue, //header-bg is the variable you need
 
-  font-main: Roboto,
-  font-secondary: Exo,
-), default, default);
