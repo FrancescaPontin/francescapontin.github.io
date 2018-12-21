@@ -16,6 +16,8 @@ Github: [francescapontin.github.io](https://github.com/FrancescaPontin/githubint
 
 </div>
 
+<a class="twitter-timeline" href="https://twitter.com/FrancescaPontin?ref_src=twsrc%5Etfw">Tweets by FrancescaPontin</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 
 
 
