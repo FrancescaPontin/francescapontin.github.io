@@ -1,5 +1,9 @@
-![GitHub Logo](/2.png)
+---
+layout: default
 title: Francesca Pontin
+permalink: Home/
+---
+![GitHub Logo](/2.png)
 # About
 PhD Student at The University of Leeds
 
