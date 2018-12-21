@@ -25,4 +25,4 @@ Part of the Data Analytics and Society CDT (Second Year)
 
 
 [contact](contact.md)
-[home page](home_page.md)
+[home page](home_page.html)
