@@ -40,7 +40,7 @@
     "versionPublish": "4.8.10",
     "screenshot": "screenshot.png",
     "favicon": "@PROJECT_PATH@/assets/images/map-favicon-128x76.png",
-    "noImageResize": ""
+    "noImageResize": "true"
   },
   "pages": {
     "index.html": {
