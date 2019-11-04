@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "My Site",
-    "currentPage": "page15.html",
+    "currentPage": "teaching_materials.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -9189,7 +9189,7 @@
         }
       ]
     },
-    "page15.html": {
+    "teaching_materials.html": {
       "settings": {
         "meta_descr": "Website Maker Description",
         "title": "Teaching Materials",
