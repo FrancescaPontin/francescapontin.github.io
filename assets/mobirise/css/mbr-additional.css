@@ -1134,13 +1134,13 @@ section.lazy-placeholder:after {
 }
 .cid-skLB66Wwax {
   padding-top: 0rem;
-  padding-bottom: 2rem;
+  padding-bottom: 0rem;
   background-color: #ffffff;
 }
 .cid-skLB66Wwax .twitter-wrapper,
 .cid-skLB66Wwax iframe {
-  min-height: 400px;
-  max-height: 400px;
+  min-height: 500px;
+  max-height: 500px;
   border-radius: 4px;
   background-size: contain;
   background-repeat: no-repeat;
