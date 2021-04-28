@@ -13,6 +13,16 @@ For other recent research activities & announcements check out my Twiter page:
 
 <a class="twitter-timeline" href="https://twitter.com/FrancescaPontin?ref_src=twsrc%5Etfw">Tweets by FrancescaPontin</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+// In your gatsby-config.js
+plugins: [
+  {
+    resolve: "gatsby-transformer-remark",
+    options: {
+      plugins: ["@weknow/gatsby-remark-twitter"]
+    }
+  }
+];
+
 ### Teaching
 
 If you are looking for my teaching materials you can find them in my publci GitHub repositories, or [on my website](https://francescapontin.github.io/teaching_materials.html)
