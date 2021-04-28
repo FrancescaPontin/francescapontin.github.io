@@ -15,7 +15,6 @@ For other recent research activities & announcements check out my Twiter page:
 <!-- TWITTER:END -->
 
 
-
 ### Teaching
 
 If you are looking for my teaching materials you can find them in my publci GitHub repositories, or [on my website](https://francescapontin.github.io/teaching_materials.html)
