@@ -10,10 +10,11 @@ You can access my website [here](https://francescapontin.github.io).
 
 For other recent research activities & announcements check out my Twiter page:
 
-<a class="twitter-timeline" href="https://twitter.com/FrancescaPontin?ref_src=twsrc%5Etfw">Tweets by FrancescaPontin</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<!-- TWITTER:START -->
+<!-- TWITTER:END -->
 
 
-https://twitter.com/FrancescaPontin
 
 ### Teaching
 
