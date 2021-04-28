@@ -1,3 +1,23 @@
+
+```bash
+npm install --save "@weknow/gatsby-remark-twitter"
+```
+
+## How to use
+
+```js
+// In your gatsby-config.js
+plugins: [
+  {
+    resolve: "gatsby-transformer-remark",
+    options: {
+      plugins: ["@weknow/gatsby-remark-twitter"]
+    }
+  }
+];
+```
+
+
 ## Welcome to the page for my Website
 
 You can access my website [here](https://francescapontin.github.io).
@@ -13,15 +33,8 @@ For other recent research activities & announcements check out my Twiter page:
 
 <a class="twitter-timeline" href="https://twitter.com/FrancescaPontin?ref_src=twsrc%5Etfw">Tweets by FrancescaPontin</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-// In your gatsby-config.js
-plugins: [
-  {
-    resolve: "gatsby-transformer-remark",
-    options: {
-      plugins: ["@weknow/gatsby-remark-twitter"]
-    }
-  }
-];
+
+
 https://twitter.com/FrancescaPontin
 
 ### Teaching
