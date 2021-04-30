@@ -5,7 +5,7 @@ You can access my website [here](https://francescapontin.github.io).
 
 ### Teaching
 
-If you are looking for my teaching materials you can find them in my publci GitHub repositories, or [on my website](https://francescapontin.github.io/teaching_materials.html)
+If you are looking for my teaching materials you can find them in my GitHub repositories, or [on my website](https://francescapontin.github.io/teaching_materials.html)
 - [CDRC Day 1](https://github.com/FrancescaPontin/CDRC_Python_day_1)
 - [CDRC Day 2](https://github.com/FrancescaPontin/CDRC_Python_day_2)
 
