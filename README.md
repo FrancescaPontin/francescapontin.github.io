@@ -19,7 +19,7 @@ For other recent research activities & announcements check out my [Twiter page](
 
 Latest Tweets:
 <!-- TWITTER:START -->
-- [[Action required] Your RSS.app Trial has Expired - Thu Feb 17 2022](https://rss.app)
+- [[Action required] Your RSS.app Trial has Expired - Fri Feb 18 2022](https://rss.app)
 <!-- TWITTER:END -->
 
 
