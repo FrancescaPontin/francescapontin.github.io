@@ -6,26 +6,55 @@ title: "CV"
 
 Fran is a Senior Research Data Scientist at the Consumer Data Research Centre and a Lecturer in the School of Geography at the University of Leeds. As a member of the Institute for Spatial Data Science, her research focuses on applying advanced data science techniques to explore the spatial, temporal, and demographic determinants of health, with the goal of reducing inequalities. She is particularly interested in leveraging both open and commercial secondary data to understand behaviours and identify barriers faced by diverse population groups. Her work is strongly policy-oriented, collaborating with stakeholders to transform research informed insights into actionable strategies. Recent projects include the development of data-driven tools to assess food insecurity risk across the UK and initiatives aimed at enhancing the safety of women and girls in public parks. Fran’s research not only advances academic knowledge but also directly informs policies that aim to improve public health and social equity. \# Education
 
+# Education
 
+PhD School of Geography, Data Analytics & Society CDT, University of Leeds (UoL)}: "Assessing Determinants of Physical Activity Using Secondary Smartphone Data"
 
 ::: {.classname collapse="true"}
 # Section test
-- a
-- b
-- c
-- d
-- e
-- f
-- g
+
+-   a
+-   b
+-   c
+-   d
+-   e
+-   f
+-   g
 :::
 
-::: {.callout-note collapse="true" callout-appearance: simple}
+::: {.callout-note collapse="true" appearance="minimal"}
 # Section test 2
-- a
-- b
-- c
-- d
-- e
-- f
-- g
+
+-   a
+-   b
+-   c
+-   d
+-   e
+-   f
+-   g
 :::
+
+:::: callout-generic
+::: {.callout-generic-header collapse="true"}
+# A generic callout
+
+-   d
+-   e
+-   f
+-   g
+:::
+::::
+
+<div>
+
+\<button class="dropdown-btn"\>Education\</button\>
+
+\<div class="dropdown-content"\>
+
+  \<p\>Bachelor of Science in Computer Science, University X (2013–2017)\</p\>
+
+  \<p\>High School, School Y (2009–2013)\</p\>
+
+\</div\>
+
+</div>

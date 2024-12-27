@@ -1,0 +1,16 @@
+[
+  {
+    "listing": "/cv_listings.html",
+    "items": [
+      "/blog_posts/ASS.html"
+    ]
+  },
+  {
+    "listing": "/publications.html",
+    "items": [
+      "/blog_posts/ASS.html",
+      "/publications/journal_2.html",
+      "/publications/journal_1.html"
+    ]
+  }
+]

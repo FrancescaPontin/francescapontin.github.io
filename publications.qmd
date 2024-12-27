@@ -1,0 +1,24 @@
+---
+title: "Publications"
+
+listing:
+  contents: 
+    - blog_posts 
+    - publications
+  sort: 
+    - "date"
+  categories: true
+  type: table
+  fields: [date, title, keywords, doi]
+  field-links: [title, doi]
+  filter-ui: [title, keywords]
+  field-display-names: 
+    date: "Date" 
+    title: "Title"
+    keywords: "Keywords"
+    doi: "DOI"
+  date-format: short
+  table-hover: true
+
+---
+

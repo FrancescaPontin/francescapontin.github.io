@@ -1,0 +1,37 @@
+---
+title: "Harnessing digital footprint data for population health: a discussion on collaboration, challenges and opportunities in the UK"
+author: Romana Burgess, Elizabeth Dolan, Neo Poon, Victoria Jenneson, Francesca Pontin, Torty Sivill, Michelle Morris, Anya Skatova
+categories: [Journal Article]
+date: 2024-09-28
+doi: "10.1136/bmjhci-2024-101119" 
+keywords: 
+    - Digital Footprint Data
+    - Data Linkage
+citation: 
+    publisher: "BMJ Health & Care Informatics"
+---
+<!-- Button to download PDF -->
+<button id="download-btn" onclick="downloadPDF()">Download PDF</button>
+<!-- JavaScript function to handle the download -->
+<script>
+function downloadPDF() {
+   // Path to your PDF file (relative)
+   var pdfPath = '../publication_pdfs/harnessing_digital_footprint.pdf';
+   // Create a temporary link to trigger the download
+   var link = document.createElement('a');
+   link.href = pdfPath;
+   link.download = 'harnessing_digital_footprint.pdf';  // Optionally, specify the file name
+   // Append the link to the body (required for it to work in some browsers)
+   document.body.appendChild(link);
+   // Trigger the click event to start the download
+   link.click();
+   // Remove the link from the DOM after the download starts
+   document.body.removeChild(link);
+}
+</script>
+
+
+![](/docs/publication_pdfs/harnessing_digital_footprint.jpg){width="595"}
+
+
+

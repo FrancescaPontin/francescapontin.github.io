@@ -32,7 +32,7 @@
     "href": "cv.html",
     "title": "CV",
     "section": "",
-    "text": "Bio\nFran is a Senior Research Data Scientist at the Consumer Data Research Centre and a Lecturer in the School of Geography at the University of Leeds. As a member of the Institute for Spatial Data Science, her research focuses on applying advanced data science techniques to explore the spatial, temporal, and demographic determinants of health, with the goal of reducing inequalities. She is particularly interested in leveraging both open and commercial secondary data to understand behaviours and identify barriers faced by diverse population groups. Her work is strongly policy-oriented, collaborating with stakeholders to transform research informed insights into actionable strategies. Recent projects include the development of data-driven tools to assess food insecurity risk across the UK and initiatives aimed at enhancing the safety of women and girls in public parks. Fran’s research not only advances academic knowledge but also directly informs policies that aim to improve public health and social equity. # Education\n\n\nSection test\n\na\nb\nc\nd\ne\nf\ng\n\n\n::: {.callout-note collapse=“true” callout-appearance: simple} # Section test 2 - a - b - c - d - e - f - g :::"
+    "text": "Bio\nFran is a Senior Research Data Scientist at the Consumer Data Research Centre and a Lecturer in the School of Geography at the University of Leeds. As a member of the Institute for Spatial Data Science, her research focuses on applying advanced data science techniques to explore the spatial, temporal, and demographic determinants of health, with the goal of reducing inequalities. She is particularly interested in leveraging both open and commercial secondary data to understand behaviours and identify barriers faced by diverse population groups. Her work is strongly policy-oriented, collaborating with stakeholders to transform research informed insights into actionable strategies. Recent projects include the development of data-driven tools to assess food insecurity risk across the UK and initiatives aimed at enhancing the safety of women and girls in public parks. Fran’s research not only advances academic knowledge but also directly informs policies that aim to improve public health and social equity. # Education\n\n\nEducation\nPhD School of Geography, Data Analytics & Society CDT, University of Leeds (UoL)}: “Assessing Determinants of Physical Activity Using Secondary Smartphone Data”\n\n\nSection test\n\na\nb\nc\nd\ne\nf\ng\n\n\n\n\n\n\n\n\nSection test 2\n\n\n\n\n\n\na\nb\nc\nd\ne\nf\ng\n\n\n\n\n\n\nA generic callout\n\nd\ne\nf\ng\n\n\n\n&lt;button class=“dropdown-btn”&gt;Education&lt;/button&gt;\n&lt;div class=“dropdown-content”&gt;\n  &lt;p&gt;Bachelor of Science in Computer Science, University X (2013–2017)&lt;/p&gt;\n  &lt;p&gt;High School, School Y (2009–2013)&lt;/p&gt;\n&lt;/div&gt;\nEducation\n\n\n \n\nBachelor of Science in Computer Science, University X (2013–2017)\n\n \n\nHigh School, School Y (2009–2013)"
   },
   {
     "objectID": "cv.html#test",
@@ -40,5 +40,47 @@
     "title": "CV",
     "section": "",
     "text": "A test section"
+  },
+  {
+    "objectID": "cv_listings.html",
+    "href": "cv_listings.html",
+    "title": "Listing Example",
+    "section": "",
+    "text": "Understanding Priority Places – targeted support for the UK’s hungriest neighbourhoods\n\n\n\n\n\n\n\n\n\n\n\nJan 4, 2023\n\n\nFrancesca Pontin\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "cv_items/test.html",
+    "href": "cv_items/test.html",
+    "title": "Welcome To My Blog",
+    "section": "",
+    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+  },
+  {
+    "objectID": "blog_posts/ASS.html",
+    "href": "blog_posts/ASS.html",
+    "title": "Understanding Priority Places – targeted support for the UK’s hungriest neighbourhoods",
+    "section": "",
+    "text": "The full blog post is published by the Academy of Social Sciences.\n\n\n\nCitationBibTeX citation:@online{pontin2023,\n  author = {Pontin, Francesca},\n  publisher = {Academy of Social Sciences},\n  title = {Understanding {Priority} {Places} – Targeted Support for the\n    {UK’s} Hungriest Neighbourhoods},\n  date = {2023-01-04},\n  url = {https://doi.org/10.5281/zenodo.14562625.},\n  doi = {10.5281/zenodo.14562625},\n  langid = {en}\n}\nFor attribution, please cite this work as:\nPontin, Francesca. 2023. “Understanding Priority Places – Targeted\nSupport for the UK’s Hungriest Neighbourhoods.” Academy of Social\nSciences. January 4, 2023. https://doi.org/10.5281/zenodo.14562625."
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "Order By\n       Default\n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Title\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nDate\n\n\nTitle\n\n\nKeywords\n\n\nDOI\n\n\n\n\n\n\n1/4/23\n\n\nUnderstanding Priority Places – targeted support for the UK’s hungriest neighbourhoods\n\n\nFood Insecurity, PPFI\n\n\n10.5281/zenodo.14562625\n\n\n\n\n9/28/24\n\n\nHarnessing digital footprint data for population health: a discussion on collaboration, challenges and opportunities in the UK\n\n\nDigital Footprint Data, Data Linkage\n\n\n10.1136/bmjhci-2024-101119\n\n\n\n\n12/25/24\n\n\nA\n\n\nFood Insecurity, A\n\n\n10.5281/zenodo.14562625\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "publications/journal_1.html",
+    "href": "publications/journal_1.html",
+    "title": "A",
+    "section": "",
+    "text": "a"
+  },
+  {
+    "objectID": "publications/journal_2.html",
+    "href": "publications/journal_2.html",
+    "title": "Harnessing digital footprint data for population health: a discussion on collaboration, challenges and opportunities in the UK",
+    "section": "",
+    "text": "Download PDF\n\n\n\n\n\n\n\nCitationBibTeX citation:@online{burgess,_elizabeth_dolan,_neo_poon,_victoria_jenneson,_francesca_pontin,_torty_sivill,_michelle_morris,_anya_skatova2024,\n  author = {Burgess, Elizabeth Dolan, Neo Poon, Victoria Jenneson,\n    Francesca Pontin, Torty Sivill, Michelle Morris, Anya Skatova,\n    Romana},\n  publisher = {BMJ Health \\& Care Informatics},\n  title = {Harnessing Digital Footprint Data for Population Health: A\n    Discussion on Collaboration, Challenges and Opportunities in the\n    {UK}},\n  date = {2024-09-28},\n  doi = {10.1136/bmjhci-2024-101119},\n  langid = {en}\n}\nFor attribution, please cite this work as:\nBurgess, Elizabeth Dolan, Neo Poon, Victoria Jenneson, Francesca Pontin,\nTorty Sivill, Michelle Morris, Anya Skatova, Romana. 2024.\n“Harnessing Digital Footprint Data for Population Health: A\nDiscussion on Collaboration, Challenges and Opportunities in the\nUK.” BMJ Health & Care Informatics. September 28, 2024. https://doi.org/10.1136/bmjhci-2024-101119."
   }
 ]

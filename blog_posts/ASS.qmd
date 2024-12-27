@@ -1,0 +1,20 @@
+---
+title: "Understanding Priority Places – targeted support for the UK’s hungriest neighbourhoods"
+author: "Francesca Pontin"
+date: 2023-01-04
+
+categories: [Blog Post]
+keywords: 
+    - Food Insecurity
+    - PPFI
+doi: "10.5281/zenodo.14562625" 
+
+citation: 
+    url: https://doi.org/10.5281/zenodo.14562625.
+    publisher: "Academy of Social Sciences"
+    doi: "10.5281/zenodo.14562625" 
+
+---
+
+The [full blog post](https://acss.org.uk/understanding-priority-places-targeted-support-for-the-uks-hungriest-neighbourhoods/) is published by the Academy of Social Sciences.
+

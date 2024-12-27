@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>CV – Fran Pontin</title>
+<title>Listing Example – Fran Pontin</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -30,6 +30,8 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-search/fuse.min.js"></script>
 <script src="site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="./">
+<script src="site_libs/quarto-listing/list.min.js"></script>
+<script src="site_libs/quarto-listing/quarto-listing.js"></script>
 <script src="site_libs/quarto-html/quarto.js"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
@@ -66,7 +68,65 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
+<script>
 
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
+    const listingTargetEl = window.document.querySelector('#listing-listing .list');
+    if (!listingTargetEl) {
+      // No listing discovered, do not attach.
+      return; 
+    }
+
+    const options = {
+      valueNames: ['listing-date','listing-title','listing-author','listing-image','listing-description',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      
+      searchColumns: ["listing-date","listing-title","listing-author","listing-image","listing-description"],
+    };
+
+    window['quarto-listings'] = window['quarto-listings'] || {};
+    window['quarto-listings']['listing-listing'] = new List('listing-listing', options);
+
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  });
+
+  window.addEventListener('hashchange',() => {
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  })
+  </script>
+
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN") {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
 
 <link rel="stylesheet" href="styles.css">
 </head>
@@ -93,7 +153,7 @@ ul.task-list li input[type="checkbox"] {
 <span class="menu-text">Home</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link active" href="./cv.html" aria-current="page"> 
+    <a class="nav-link" href="./cv.html"> 
 <span class="menu-text">CV</span></a>
   </li>  
   <li class="nav-item">
@@ -123,24 +183,15 @@ ul.task-list li input[type="checkbox"] {
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        <nav id="TOC" role="doc-toc" class="toc-active">
-    <h2 id="toc-title">On this page</h2>
-   
-  <ul>
-  <li><a href="#bio" id="toc-bio" class="nav-link active" data-scroll-target="#bio">Bio</a></li>
-  <li><a href="#education" id="toc-education" class="nav-link" data-scroll-target="#education">Education</a></li>
-  <li><a href="#section-test" id="toc-section-test" class="nav-link" data-scroll-target="#section-test">Section test</a></li>
-  <li><a href="#a-generic-callout" id="toc-a-generic-callout" class="nav-link" data-scroll-target="#a-generic-callout">A generic callout</a></li>
-  </ul>
-</nav>
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
+        
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">CV</h1>
+<h1 class="title">Listing Example</h1>
 </div>
 
 
@@ -157,82 +208,45 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<section id="bio" class="level1" data-collapse="true">
-<h1 data-collapse="true">Bio</h1>
-<p>Fran is a Senior Research Data Scientist at the Consumer Data Research Centre and a Lecturer in the School of Geography at the University of Leeds. As a member of the Institute for Spatial Data Science, her research focuses on applying advanced data science techniques to explore the spatial, temporal, and demographic determinants of health, with the goal of reducing inequalities. She is particularly interested in leveraging both open and commercial secondary data to understand behaviours and identify barriers faced by diverse population groups. Her work is strongly policy-oriented, collaborating with stakeholders to transform research informed insights into actionable strategies. Recent projects include the development of data-driven tools to assess food insecurity risk across the UK and initiatives aimed at enhancing the safety of women and girls in public parks. Fran’s research not only advances academic knowledge but also directly informs policies that aim to improve public health and social equity. # Education</p>
-</section>
-<section id="education" class="level1">
-<h1>Education</h1>
-<p>PhD School of Geography, Data Analytics &amp; Society CDT, University of Leeds (UoL)}: “Assessing Determinants of Physical Activity Using Secondary Smartphone Data”</p>
-</section>
-<section id="section-test" class="level1 classname" data-collapse="true">
-<h1>Section test</h1>
-<ul>
-<li>a</li>
-<li>b</li>
-<li>c</li>
-<li>d</li>
-<li>e</li>
-<li>f</li>
-<li>g</li>
-</ul>
-</section>
-<div class="callout callout-style-simple callout-note no-icon callout-titled">
-<div class="callout-header d-flex align-content-center" data-bs-toggle="collapse" data-bs-target=".callout-1-contents" aria-controls="callout-1" aria-expanded="false" aria-label="Toggle callout">
-<div class="callout-icon-container">
-<i class="callout-icon no-icon"></i>
-</div>
-<div class="callout-title-container flex-fill">
-Section test 2
-</div>
-<div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
-</div>
-<div id="callout-1" class="callout-1-contents callout-collapse collapse">
-<div class="callout-body-container callout-body">
-<ul>
-<li>a</li>
-<li>b</li>
-<li>c</li>
-<li>d</li>
-<li>e</li>
-<li>f</li>
-<li>g</li>
-</ul>
-</div>
-</div>
-</div>
-<div class="callout-generic">
-<section id="a-generic-callout" class="level1 callout-generic-header" data-collapse="true">
-<h1>A generic callout</h1>
-<ul>
-<li>d</li>
-<li>e</li>
-<li>f</li>
-<li>g</li>
-</ul>
-</section>
-</div>
-<p>&lt;button class=“dropdown-btn”&gt;Education&lt;/button&gt;</p>
-<p>&lt;div class=“dropdown-content”&gt;</p>
-<p>&nbsp; &lt;p&gt;Bachelor of Science in Computer Science, University X (2013–2017)&lt;/p&gt;</p>
-<p>&nbsp; &lt;p&gt;High School, School Y (2009–2013)&lt;/p&gt;</p>
-<p>&lt;/div&gt;</p>
-<p>Education</p>
-
-<div class="dropdown-content">
-<p>&nbsp;</p>
-<p>
-Bachelor of Science in Computer Science, University X (2013–2017)
-</p>
-<p>&nbsp;</p>
-<p>
-High School, School Y (2009–2013)
-</p>
-</div>
 
 
 
-</main> <!-- /main -->
+
+<div class="quarto-listing quarto-listing-container-default" id="listing-listing">
+<div class="list quarto-listing-default">
+<div class="quarto-post image-right" data-index="0" data-categories="QmxvZyUyMFBvc3Q=" data-listing-date-sort="1672790400000" data-listing-file-modified-sort="1735314417063" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="12">
+<div class="thumbnail">
+<p><a href="./blog_posts/ASS.html" class="no-external"></a></p><a href="./blog_posts/ASS.html" class="no-external">
+<div class="listing-item-img-placeholder card-img-top" >&nbsp;</div>
+</a><p><a href="./blog_posts/ASS.html" class="no-external"></a></p>
+</div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./blog_posts/ASS.html" class="no-external">Understanding Priority Places – targeted support for the UK’s hungriest neighbourhoods</a>
+</h3>
+<div class="listing-subtitle">
+<a href="./blog_posts/ASS.html" class="no-external"></a>
+</div>
+<div class="listing-description">
+<a href="./blog_posts/ASS.html" class="no-external">The full blog post is published by the Academy of Social Sciences.</a>
+</div>
+</div>
+<div class="metadata">
+<a href="./blog_posts/ASS.html" class="no-external">
+<div class="listing-date">
+Jan 4, 2023
+</div>
+<div class="listing-author">
+Francesca Pontin
+</div>
+</a>
+</div>
+</div>
+</div>
+<div class="listing-no-matching d-none">
+No matching items
+</div>
+</div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {
