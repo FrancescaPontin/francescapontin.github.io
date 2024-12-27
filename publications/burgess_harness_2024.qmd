@@ -16,7 +16,7 @@ citation:
 <script>
 function downloadPDF() {
    // Path to your PDF file (relative)
-   var pdfPath = '../publication_pdfs/harnessing_digital_footprint.pdf';
+   var pdfPath = '../paper_pdf_jpeg/harnessing_digital_footprint.pdf';
    // Create a temporary link to trigger the download
    var link = document.createElement('a');
    link.href = pdfPath;
@@ -31,7 +31,7 @@ function downloadPDF() {
 </script>
 
 
-![](/docs/publication_pdfs/harnessing_digital_footprint.jpg){width="595"}
+![](/paper_pdf_jpeg/harnessing_digital_footprint.jpg){width="595"}
 
 
 
