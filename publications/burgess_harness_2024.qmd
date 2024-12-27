@@ -31,7 +31,7 @@ function downloadPDF() {
 </script>
 
 
-![](/paper_pdf_jpeg/harnessing_digital_footprint.jpg){width="595"}
+![](../paper_pdf_jpeg/harnessing_digital_footprint.jpg){width="595"}
 
 
 
