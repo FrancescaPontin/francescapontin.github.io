@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Reseach Projects",
+    "section": "",
+    "text": "Hello"
+  },
+  {
+    "objectID": "teaching.html#cpd",
+    "href": "teaching.html#cpd",
+    "title": "Teaching Resources",
+    "section": "CPD",
+    "text": "CPD"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Fran Pontin",
+    "section": "",
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+  },
+  {
+    "objectID": "presentations.html",
+    "href": "presentations.html",
+    "title": "Recent Presentations",
+    "section": "",
+    "text": "2024\n\n\n2023"
+  }
+]
