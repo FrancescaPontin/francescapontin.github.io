@@ -9,6 +9,8 @@ website:
         text: Home
       - cv.qmd
       - projects.qmd
+      - href: publications.qmd
+        text: Publications
       - href: presentations.qmd
         text: Presentations
       - href: teaching.qmd
