@@ -26,5 +26,19 @@
     "title": "Recent Presentations",
     "section": "",
     "text": "2024\n\n\n2023"
+  },
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "CV",
+    "section": "",
+    "text": "Bio\nFran is a Senior Research Data Scientist at the Consumer Data Research Centre and a Lecturer in the School of Geography at the University of Leeds. As a member of the Institute for Spatial Data Science, her research focuses on applying advanced data science techniques to explore the spatial, temporal, and demographic determinants of health, with the goal of reducing inequalities. She is particularly interested in leveraging both open and commercial secondary data to understand behaviours and identify barriers faced by diverse population groups. Her work is strongly policy-oriented, collaborating with stakeholders to transform research informed insights into actionable strategies. Recent projects include the development of data-driven tools to assess food insecurity risk across the UK and initiatives aimed at enhancing the safety of women and girls in public parks. Fran’s research not only advances academic knowledge but also directly informs policies that aim to improve public health and social equity. # Education\n\n\nSection test\n\na\nb\nc\nd\ne\nf\ng\n\n\n::: {.callout-note collapse=“true” callout-appearance: simple} # Section test 2 - a - b - c - d - e - f - g :::"
+  },
+  {
+    "objectID": "cv.html#test",
+    "href": "cv.html#test",
+    "title": "CV",
+    "section": "",
+    "text": "A test section"
   }
 ]
