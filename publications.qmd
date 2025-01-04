@@ -17,7 +17,7 @@ listing:
     title: "Title"
     keywords: "Keywords"
     doi: "DOI"
-  date-format: short
+  date-format: DD/MM/YY
   table-hover: true
 
 ---

@@ -1,0 +1,41 @@
+---
+title: "Diet and health inequalities: Connecting with vulnerable groups to address food insecurity—the DIO food project"
+author: Daniel R Crabtree, Emma Hunter, Victoria Jenneson, Alison Fildes, Alice Kininmonth, Francesca Pontin, Emily Ennis, Marta Lonnie, Hannah Skeggs, Lizzy McHugh, Michelle A Morris, Flora Douglas, Alexandra M Johnstone, DIO Food team
+categories: [Journal Article]
+date: 2024-09-25
+doi: "10.1111/nbu.12709" 
+keywords: 
+    - Food Insecurity
+    - Project overview
+    - Supermarket data
+    - HFSS
+citation: 
+    publisher: "Nutrition bulletin"
+    issue: 4
+    volume: 49
+---
+<!-- Button to download PDF -->
+<button id="download-btn" onclick="downloadPDF()">Download PDF</button>
+<!-- JavaScript function to handle the download -->
+<script>
+function downloadPDF() {
+   // Path to your PDF file (relative)
+   var pdfPath = '../paper_pdf_jpeg/Crabtree_Diet_2024.pdf';
+   // Create a temporary link to trigger the download
+   var link = document.createElement('a');
+   link.href = pdfPath;
+   link.download = 'Crabtree_Diet_2024.pdf';  // Optionally, specify the file name
+   // Append the link to the body (required for it to work in some browsers)
+   document.body.appendChild(link);
+   // Trigger the click event to start the download
+   link.click();
+   // Remove the link from the DOM after the download starts
+   document.body.removeChild(link);
+}
+</script>
+
+
+![](../paper_pdf_jpeg/Crabtree_Diet_2024.jpg){width="595"}
+
+
+
