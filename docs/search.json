@@ -60,7 +60,7 @@
     "href": "publications.html",
     "title": "Publications",
     "section": "",
-    "text": "Order By\n       Default\n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Title\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nDate\n\n\nTitle\n\n\nKeywords\n\n\nDOI\n\n\n\n\n\n\n04/01/23\n\n\nUnderstanding Priority Places – targeted support for the UK’s hungriest neighbourhoods\n\n\nFood Insecurity, PPFI\n\n\n10.5281/zenodo.14562625\n\n\n\n\n25/09/24\n\n\nDiet and health inequalities: Connecting with vulnerable groups to address food insecurity—the DIO food project\n\n\nFood Insecurity, Project overview, Supermarket data, HFSS\n\n\n10.1111/nbu.12709\n\n\n\n\n28/09/24\n\n\nHarnessing digital footprint data for population health: a discussion on collaboration, challenges and opportunities in the UK\n\n\nDigital Footprint Data, Data Linkage\n\n\n10.1136/bmjhci-2024-101119\n\n\n\n\n25/12/24\n\n\nA\n\n\nFood Insecurity, A\n\n\n10.5281/zenodo.14562625\n\n\n\n\n\nNo matching items"
+    "text": "Order By\n       Default\n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Title\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nDate\n\n\nTitle\n\n\nKeywords\n\n\nDOI\n\n\n\n\n\n\n05/05/22\n\n\nA systematic review of supermarket automated electronic sales data for population dietary surveillance\n\n\nSupermarket Data, Systematic Review\n\n\n10.1093/nutrit/nuab089\n\n\n\n\n04/01/23\n\n\nUnderstanding Priority Places – targeted support for the UK’s hungriest neighbourhoods\n\n\nFood Insecurity, PPFI\n\n\n10.5281/zenodo.14562625\n\n\n\n\n25/09/24\n\n\nDiet and health inequalities: Connecting with vulnerable groups to address food insecurity—the DIO food project\n\n\nFood Insecurity, Project overview, Supermarket data, HFSS\n\n\n10.1111/nbu.12709\n\n\n\n\n28/09/24\n\n\nHarnessing digital footprint data for population health: a discussion on collaboration, challenges and opportunities in the UK\n\n\nDigital Footprint Data, Data Linkage\n\n\n10.1136/bmjhci-2024-101119\n\n\n\n\n25/12/24\n\n\nA\n\n\nFood Insecurity, A\n\n\n10.5281/zenodo.14562625\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "presentations.html",
@@ -82,5 +82,12 @@
     "title": "Fran Pontin",
     "section": "",
     "text": "Button to download PDF Download PDF \n\n\n\n\n\nCitationBibTeX citation:@online{seperated,_authors2025,\n  author = {seperated, authors, comma},\n  title = {},\n  date = {2025-01-01},\n  langid = {en}\n}\nFor attribution, please cite this work as:\nseperated, authors, comma. 2025. January 1, 2025."
+  },
+  {
+    "objectID": "publications/jenneson_systematic_2022.html",
+    "href": "publications/jenneson_systematic_2022.html",
+    "title": "A systematic review of supermarket automated electronic sales data for population dietary surveillance",
+    "section": "",
+    "text": "Download PDF\n\n\n\n\n\n\n\nCitationBibTeX citation:@online{l_jenneson,_francesca_pontin,_darren_c_greenwood,_graham_p_clarke,_michelle_a_morris,2022,\n  author = {L Jenneson, Francesca Pontin, Darren C Greenwood, Graham P\n    Clarke, Michelle A Morris,, Victoria},\n  publisher = {Nutrition Reviews},\n  title = {A Systematic Review of Supermarket Automated Electronic Sales\n    Data for Population Dietary Surveillance},\n  volume = {80},\n  number = {6},\n  date = {2022-05-05},\n  doi = {10.1093/nutrit/nuab089},\n  langid = {en}\n}\nFor attribution, please cite this work as:\nL Jenneson, Francesca Pontin, Darren C Greenwood, Graham P Clarke,\nMichelle A Morris, Victoria. 2022. “A Systematic Review of\nSupermarket Automated Electronic Sales Data for Population Dietary\nSurveillance.” Nutrition Reviews. May 5, 2022. https://doi.org/10.1093/nutrit/nuab089."
   }
 ]

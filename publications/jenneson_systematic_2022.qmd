@@ -1,14 +1,16 @@
 ---
-title: "Harnessing digital footprint data for population health: a discussion on collaboration, challenges and opportunities in the UK"
-author: Romana Burgess, Elizabeth Dolan, Neo Poon, Victoria Jenneson, Francesca Pontin, Torty Sivill, Michelle Morris, Anya Skatova
+title: "A systematic review of supermarket automated electronic sales data for population dietary surveillance"
+author: Victoria L Jenneson, Francesca Pontin, Darren C Greenwood, Graham P Clarke, Michelle A Morris, 
 categories: [Journal Article]
-date: 2024-09-28
-doi: "10.1136/bmjhci-2024-101119" 
+date: 2022-05-05
+doi: "10.1093/nutrit/nuab089" 
 keywords: 
-    - Digital Footprint Data
-    - Data Linkage
+    - Supermarket Data
+    - Systematic Review
 citation: 
-    publisher: "BMJ Health & Care Informatics"
+    publisher: "Nutrition Reviews"
+    volume: 80
+    issue: 6
 ---
 
 <!-- Button to download PDF -->
@@ -16,8 +18,8 @@ citation:
 <button id="download-btn" onclick="downloadPDF()">
 
 Download PDF
-</button>
 
+</button>
 
 <!-- JavaScript function to handle the download -->
 
@@ -25,11 +27,11 @@ Download PDF
 <script>
 function downloadPDF() {
    // Path to your PDF file (relative)
-   var pdfPath = '../paper_pdf_jpeg/harnessing_digital_footprint.pdf';
+   var pdfPath = '../paper_pdf_jpeg/jenneson_systematic_2022.pdf';
    // Create a temporary link to trigger the download
    var link = document.createElement('a');
    link.href = pdfPath;
-   link.download = 'harnessing_digital_footprint.pdf';  // Optionally, specify the file name
+   link.download = 'jenneson_systematic_2022.pdf';  // Optionally, specify the file name
    // Append the link to the body (required for it to work in some browsers)
    document.body.appendChild(link);
    // Trigger the click event to start the download
@@ -40,4 +42,6 @@ function downloadPDF() {
 </script>
 ```
 
-![](../paper_pdf_jpeg/harnessing_digital_footprint.jpg){width="595"}
+
+
+![](../paper_pdf_jpeg/jenneson_systematic_2022.jpg){width="595"}
