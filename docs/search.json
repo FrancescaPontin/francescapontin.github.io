@@ -96,5 +96,47 @@
     "title": "Diet and health inequalities: Connecting with vulnerable groups to address food insecurity—the DIO food project",
     "section": "",
     "text": "Download PDF\n\n\n\n\n\n\n\nCitationBibTeX citation:@online{r_crabtree,_emma_hunter,_victoria_jenneson,_alison_fildes,_alice_kininmonth,_francesca_pontin,_emily_ennis,_marta_lonnie,_hannah_skeggs,_lizzy_mchugh,_michelle_a_morris,_flora_douglas,_alexandra_m_johnstone,_dio_food_team2024,\n  author = {R Crabtree, Emma Hunter, Victoria Jenneson, Alison Fildes,\n    Alice Kininmonth, Francesca Pontin, Emily Ennis, Marta Lonnie,\n    Hannah Skeggs, Lizzy McHugh, Michelle A Morris, Flora Douglas,\n    Alexandra M Johnstone, DIO Food team, Daniel},\n  publisher = {Nutrition bulletin},\n  title = {Diet and Health Inequalities: {Connecting} with Vulnerable\n    Groups to Address Food Insecurity—the {DIO} Food Project},\n  volume = {49},\n  number = {4},\n  date = {2024-09-25},\n  doi = {10.1111/nbu.12709},\n  langid = {en}\n}\nFor attribution, please cite this work as:\nR Crabtree, Emma Hunter, Victoria Jenneson, Alison Fildes, Alice\nKininmonth, Francesca Pontin, Emily Ennis, Marta Lonnie, Hannah Skeggs,\nLizzy McHugh, Michelle A Morris, Flora Douglas, Alexandra M Johnstone,\nDIO Food team, Daniel. 2024. “Diet and Health Inequalities:\nConnecting with Vulnerable Groups to Address Food Insecurity—the DIO\nFood Project.” Nutrition bulletin. September 25, 2024. https://doi.org/10.1111/nbu.12709."
+  },
+  {
+    "objectID": "resources.html",
+    "href": "resources.html",
+    "title": "Resources",
+    "section": "",
+    "text": "View on GitHub"
+  },
+  {
+    "objectID": "resources.html#reproducible-data-science",
+    "href": "resources.html#reproducible-data-science",
+    "title": "Resources",
+    "section": "",
+    "text": "View on GitHub"
+  },
+  {
+    "objectID": "resources.html#programming-for-geographical-information-analysis-core-skills",
+    "href": "resources.html#programming-for-geographical-information-analysis-core-skills",
+    "title": "Resources",
+    "section": "",
+    "text": "View GEOG5990M on GitHub"
+  },
+  {
+    "objectID": "resources.html#geog5990m",
+    "href": "resources.html#geog5990m",
+    "title": "Resources",
+    "section": "",
+    "text": "View on GitHub"
+  },
+  {
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Teaching Resources",
+    "section": "",
+    "text": "GEOG5990M\n\nProgramming for Geographical Information Analysis: Core Skills\n\n  View on GitHub \n\nThis module provides foundation level skills in computer programming. It introduces programming and reproducible data science practice in a general and in a geographical context. It encourages reproducible software development through: the application of software licences; the production of well documented source code; software testing; version control; and the production of user documentation. It is based on the development of software for geographical data processing and visualisation in a series of supported practical exercises.\nUniversity of Leeds MSc. GIS Intro to Python\n\n\ntest"
+  },
+  {
+    "objectID": "teaching.html#geog5990m",
+    "href": "teaching.html#geog5990m",
+    "title": "Teaching Resources",
+    "section": "",
+    "text": "View on GitHub"
   }
 ]

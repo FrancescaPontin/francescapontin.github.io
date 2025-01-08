@@ -1,9 +1,21 @@
 ---
 title: "Teaching Resources"
-
+format:
+  html:
+    code-links:
+      - text: GEOG5990M repo
+        icon: file-code
+        href: https://github.com/FrancescaPontin/GEOG5990M/
 ---
+# GEOG5990M
+### Programming for Geographical Information Analysis: Core Skills {.unnumbered .unlisted}
+::: {style="margin-bottom: 1em;"}
+<a href="https://github.com/FrancescaPontin/GEOG5990M/" target="_blank" style="text-decoration: none;"> <img src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" alt="GitHub Repo" width="30px" style="vertical-align: middle;"/> View on GitHub </a>
+:::
+This module provides foundation level skills in computer programming. It introduces programming and reproducible data science practice in a general and in a geographical context. It encourages reproducible software development through: the application of software licences; the production of well documented source code; software testing; version control; and the production of user documentation. It is based on the development of software for geographical data processing and visualisation in a series of supported practical exercises.
 
-## Student Education
-### GEOG5990M
 
-## CPD
+  <span style="display: inline-block; background-color: #4477AA; color: white; padding: 2px 8px; margin-right: 5px; border-radius: 3px; font-size: 12px;">University of Leeds</span>
+  <span style="display: inline-block; background-color: #AA3377; color: white; padding: 2px 8px; margin-right: 5px; border-radius: 3px; font-size: 12px;">MSc. GIS</span>
+  <span style="display: inline-block; background-color: #EE6677; color: white; padding: 2px 8px; margin-right: 5px; border-radius: 3px; font-size: 12px;">Intro to Python</span> 
+
