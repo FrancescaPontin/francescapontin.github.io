@@ -27,7 +27,7 @@ Download PDF
 <script>
 function downloadPDF() {
    // Path to your PDF file (relative)
-   var pdfPath = '/paper_pdf_jpeg/jenneson_systematic_2022.pdf';
+   var pdfPath = 'paper_pdf_jpeg/jenneson_systematic_2022.pdf';
    // Create a temporary link to trigger the download
    var link = document.createElement('a');
    link.href = pdfPath;
