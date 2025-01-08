@@ -18,4 +18,3 @@ This module provides foundation level skills in computer programming. It introdu
   <span style="display: inline-block; background-color: #4477AA; color: white; padding: 2px 8px; margin-right: 5px; border-radius: 3px; font-size: 12px;">University of Leeds</span>
   <span style="display: inline-block; background-color: #AA3377; color: white; padding: 2px 8px; margin-right: 5px; border-radius: 3px; font-size: 12px;">MSc. GIS</span>
   <span style="display: inline-block; background-color: #EE6677; color: white; padding: 2px 8px; margin-right: 5px; border-radius: 3px; font-size: 12px;">Intro to Python</span> 
-
