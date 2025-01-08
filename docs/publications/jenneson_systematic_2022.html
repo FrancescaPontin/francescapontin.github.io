@@ -189,14 +189,14 @@ ul.task-list li input[type="checkbox"] {
 <p>Download PDF</p>
 </button>
 <!-- JavaScript function to handle the download -->
-<script>
+<!-- <script>
 function downloadPDF() {
    // Path to your PDF file (relative)
-   var pdfPath = '../paper_pdf_jpeg/jenneson_systematic_2022.pdf';
+   var pdfPath = 'paper_pdf_jpeg/jenneson_systematic_2022.pdf';
    // Create a temporary link to trigger the download
    var link = document.createElement('a');
    link.href = pdfPath;
-   link.download = '/jenneson_systematic_2022.pdf';  // Optionally, specify the file name
+   link.download = 'jenneson_systematic_2022.pdf';  // Optionally, specify the file name
    // Append the link to the body (required for it to work in some browsers)
    document.body.appendChild(link);
    // Trigger the click event to start the download
@@ -204,30 +204,43 @@ function downloadPDF() {
    // Remove the link from the DOM after the download starts
    document.body.removeChild(link);
 }
-</script>
-<p><img src="../paper_pdf_jpeg/jenneson_systematic_2022.jpg" class="img-fluid" width="595"></p>
+</script> -->
 
-
-
-<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{l_jenneson,_francesca_pontin,_darren_c_greenwood,_graham_p_clarke,_michelle_a_morris,2022,
-  author = {L Jenneson, Francesca Pontin, Darren C Greenwood, Graham P
-    Clarke, Michelle A Morris,, Victoria},
-  publisher = {Nutrition Reviews},
-  title = {A Systematic Review of Supermarket Automated Electronic Sales
-    Data for Population Dietary Surveillance},
-  volume = {80},
-  number = {6},
-  date = {2022-05-05},
-  doi = {10.1093/nutrit/nuab089},
-  langid = {en}
+<script>
+function downloadPDF() {
+   // Ensure the file path is correct and accessible
+   var pdfPath = 'paper_pdf_jpeg/jenneson_systematic_2022.pdf';
+   
+   // Check if the file exists before attempting to download
+   fetch(pdfPath, { method: 'HEAD' })
+      .then((response) => {
+         if (response.ok) {
+            // Create a temporary link to trigger the download
+            var link = document.createElement('a');
+            link.href = pdfPath;
+            link.download = 'jenneson_systematic_2022.pdf'; // Optional file name
+            document.body.appendChild(link); // Required in some browsers
+            link.click(); // Trigger the download
+            document.body.removeChild(link); // Clean up
+         } else {
+            alert('PDF file not found.');
+         }
+      })
+      .catch((error) => {
+         console.error('Error fetching PDF:', error);
+         alert('Failed to download PDF.');
+      });
 }
-</code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-l_jenneson,_francesca_pontin,_darren_c_greenwood,_graham_p_clarke,_michelle_a_morris,2022" class="csl-entry quarto-appendix-citeas" role="listitem">
-L Jenneson, Francesca Pontin, Darren C Greenwood, Graham P Clarke,
-Michelle A Morris, Victoria. 2022. <span>“A Systematic Review of
-Supermarket Automated Electronic Sales Data for Population Dietary
-Surveillance.”</span> Nutrition Reviews. May 5, 2022. <a href="https://doi.org/10.1093/nutrit/nuab089">https://doi.org/10.1093/nutrit/nuab089</a>.
-</div></div></section></div></main> <!-- /main -->
-<script id="quarto-html-after-body" type="application/javascript">
+<p><img src="../paper_pdf_jpeg/jenneson_systematic_2022.jpg" class="img-fluid" width="595" /></p>
+<div id="quarto-navigation-envelope" class="hidden">
+<p><span class="hidden quarto-markdown-envelope-contents" data-render-id="cXVhcnRvLWludC1zaWRlYmFyLXRpdGxl">Fran Pontin</span> <span class="hidden quarto-markdown-envelope-contents" data-render-id="cXVhcnRvLWludC1uYXZiYXItdGl0bGU=">Fran Pontin</span> <span class="hidden quarto-markdown-envelope-contents" data-render-id="cXVhcnRvLWludC1uYXZiYXI6SG9tZQ==">Home</span> <span class="hidden quarto-markdown-envelope-contents" data-render-id="cXVhcnRvLWludC1uYXZiYXI6L2luZGV4Lmh0bWw=">/index.html</span> <span class="hidden quarto-markdown-envelope-contents" data-render-id="cXVhcnRvLWludC1uYXZiYXI6Q1Y=">CV</span> <span class="hidden quarto-markdown-envelope-contents" data-render-id="cXVhcnRvLWludC1uYXZiYXI6L2N2Lmh0bWw=">/cv.html</span> <span class="hidden quarto-markdown-envelope-contents" data-render-id="cXVhcnRvLWludC1uYXZiYXI6UmVzZWFjaCBQcm9qZWN0cw==">Reseach Projects</span> <span class="hidden quarto-markdown-envelope-contents" data-render-id="cXVhcnRvLWludC1uYXZiYXI6L3Byb2plY3RzLmh0bWw=">/projects.html</span> <span class="hidden quarto-markdown-envelope-contents" data-render-id="cXVhcnRvLWludC1uYXZiYXI6UHVibGljYXRpb25z">Publications</span> <span class="hidden quarto-markdown-envelope-contents" data-render-id="cXVhcnRvLWludC1uYXZiYXI6L3B1YmxpY2F0aW9ucy5odG1s">/publications.html</span> <span class="hidden quarto-markdown-envelope-contents" data-render-id="cXVhcnRvLWludC1uYXZiYXI6UHJlc2VudGF0aW9ucw==">Presentations</span> <span class="hidden quarto-markdown-envelope-contents" data-render-id="cXVhcnRvLWludC1uYXZiYXI6L3ByZXNlbnRhdGlvbnMuaHRtbA==">/presentations.html</span> <span class="hidden quarto-markdown-envelope-contents" data-render-id="cXVhcnRvLWludC1uYXZiYXI6VGVhY2hpbmc=">Teaching</span> <span class="hidden quarto-markdown-envelope-contents" data-render-id="cXVhcnRvLWludC1uYXZiYXI6L3RlYWNoaW5nLmh0bWw=">/teaching.html</span> <span class="hidden quarto-markdown-envelope-contents" data-render-id="cXVhcnRvLWludC1uYXZiYXI6UmVzb3VyY2Vz">Resources</span> <span class="hidden quarto-markdown-envelope-contents" data-render-id="cXVhcnRvLWludC1uYXZiYXI6L3Jlc291cmNlcy5odG1s">/resources.html</span></p>
+</div>
+<div id="quarto-meta-markdown" class="hidden">
+<p><span class="hidden quarto-markdown-envelope-contents" data-render-id="cXVhcnRvLW1ldGF0aXRsZQ==">A systematic review of supermarket automated electronic sales data for population dietary surveillance – Fran Pontin</span> <span class="hidden quarto-markdown-envelope-contents" data-render-id="cXVhcnRvLXR3aXR0ZXJjYXJkdGl0bGU=">A systematic review of supermarket automated electronic sales data for population dietary surveillance – Fran Pontin</span> <span class="hidden quarto-markdown-envelope-contents" data-render-id="cXVhcnRvLW9nY2FyZHRpdGxl">A systematic review of supermarket automated electronic sales data for population dietary surveillance – Fran Pontin</span> <span class="hidden quarto-markdown-envelope-contents" data-render-id="cXVhcnRvLW1ldGFzaXRlbmFtZQ==">Fran Pontin</span> <span class="hidden quarto-markdown-envelope-contents" data-render-id="cXVhcnRvLXR3aXR0ZXJjYXJkZGVzYw=="></span> <span class="hidden quarto-markdown-envelope-contents" data-render-id="cXVhcnRvLW9nY2FyZGRkZXNj"></span></p>
+</div>
+
+</main> <!-- /main -->
+<script id = "quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {
     const mode = bsSheetEl.getAttribute("data-mode");
@@ -644,7 +657,24 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   }
 });
 </script>
-</div> <!-- /content -->
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{l_jenneson,_francesca_pontin,_darren_c_greenwood,_graham_p_clarke,_michelle_a_morris,2022,
+  author = {L Jenneson, Francesca Pontin, Darren C Greenwood, Graham P
+    Clarke, Michelle A Morris,, Victoria},
+  publisher = {Nutrition Reviews},
+  title = {A Systematic Review of Supermarket Automated Electronic Sales
+    Data for Population Dietary Surveillance},
+  volume = {80},
+  number = {6},
+  date = {2022-05-05},
+  doi = {10.1093/nutrit/nuab089},
+  langid = {en}
+}
+</code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-l_jenneson,_francesca_pontin,_darren_c_greenwood,_graham_p_clarke,_michelle_a_morris,2022" class="csl-entry quarto-appendix-citeas" role="listitem">
+L Jenneson, Francesca Pontin, Darren C Greenwood, Graham P Clarke,
+Michelle A Morris, Victoria. 2022. <span>“A Systematic Review of
+Supermarket Automated Electronic Sales Data for Population Dietary
+Surveillance.”</span> Nutrition Reviews. May 5, 2022. <a href="https://doi.org/10.1093/nutrit/nuab089">https://doi.org/10.1093/nutrit/nuab089</a>.
+</div></div></section></div></main></div> <!-- /content -->
 
 
 
