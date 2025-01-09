@@ -60,7 +60,7 @@
     "href": "publications.html",
     "title": "Publications",
     "section": "",
-    "text": "Order By\n       Default\n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Title\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nDate\n\n\nTitle\n\n\nKeywords\n\n\nDOI\n\n\n\n\n\n\n05/05/22\n\n\nA systematic review of supermarket automated electronic sales data for population dietary surveillance\n\n\nSupermarket Data, Systematic Review\n\n\n10.1093/nutrit/nuab089\n\n\n\n\n04/01/23\n\n\nUnderstanding Priority Places – targeted support for the UK’s hungriest neighbourhoods\n\n\nFood Insecurity, PPFI\n\n\n10.5281/zenodo.14562625\n\n\n\n\n25/09/24\n\n\nDiet and health inequalities: Connecting with vulnerable groups to address food insecurity—the DIO food project\n\n\nFood Insecurity, Project overview, Supermarket data, HFSS\n\n\n10.1111/nbu.12709\n\n\n\n\n28/09/24\n\n\nHarnessing digital footprint data for population health: a discussion on collaboration, challenges and opportunities in the UK\n\n\nDigital Footprint Data, Data Linkage\n\n\n10.1136/bmjhci-2024-101119\n\n\n\n\n25/12/24\n\n\nA\n\n\nFood Insecurity, A\n\n\n10.5281/zenodo.14562625\n\n\n\n\n\nNo matching items"
+    "text": "Order By\n       Default\n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Title\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nDate\n\n\nTitle\n\n\nKeywords\n\n\nDOI\n\n\n\n\n\n\n05/05/22\n\n\nA systematic review of supermarket automated electronic sales data for population dietary surveillance\n\n\nSupermarket Data, Systematic Review\n\n\n10.1093/nutrit/nuab089\n\n\n\n\n04/01/23\n\n\nUnderstanding Priority Places – targeted support for the UK’s hungriest neighbourhoods\n\n\nFood Insecurity, PPFI\n\n\n10.5281/zenodo.14562625\n\n\n\n\n10/06/24\n\n\nHas HFSS legislation led to healthier food and beverage sales? The DIO-Food protocol – using supermarket sales data for policy evaluation\n\n\nSupermarket Data, Protocol, Legislation, Dietary health\n\n\ndoi.org/10.23889/ijpds.v9i4.2426\n\n\n\n\n25/09/24\n\n\nDiet and health inequalities: Connecting with vulnerable groups to address food insecurity—the DIO food project\n\n\nFood Insecurity, Project overview, Supermarket data, HFSS\n\n\n10.1111/nbu.12709\n\n\n\n\n28/09/24\n\n\nHarnessing digital footprint data for population health: a discussion on collaboration, challenges and opportunities in the UK\n\n\nDigital Footprint Data, Data Linkage\n\n\n10.1136/bmjhci-2024-101119\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "presentations.html",
@@ -102,7 +102,7 @@
     "href": "resources.html",
     "title": "Resources",
     "section": "",
-    "text": "View on GitHub"
+    "text": "Reproducible data science"
   },
   {
     "objectID": "resources.html#reproducible-data-science",
@@ -138,5 +138,47 @@
     "title": "Teaching Resources",
     "section": "",
     "text": "View on GitHub"
+  },
+  {
+    "objectID": "abstracts/HFSS.html",
+    "href": "abstracts/HFSS.html",
+    "title": "Has HFSS legislation led to healthier food and beverage sales? The DIO-Food protocol – using supermarket sales data for policy evaluation",
+    "section": "",
+    "text": "On 1 October 2022, new legislation came into force for England restricting the placement of some food and drink products high in fat, sugar and salt (HFSS). Products such as confectionery can no longer be placed at store entrances, ends of aisles, or at the checkout in large retail stores and their online equivalents.\n\n\n\nOur protocol sets out how daily sales and product data from multiple retailers will be used to evaluate the legislation’s success in relation to HFSS sales, product portfolios and equitability. Food and drink sales data from 18 months pre- and 12 months post-introduction of the policy will be gained from multiple large UK retailers. Online sales are excluded.\nEligible stores were defined as supermarkets from our partner retailer brands with store areas larger than 280 square metres. From the eligible store sample, we selected 160 intervention stores (England) and 50 control stores (Scotland and Wales) from each partner retailer.\nThe sample provides equal store numbers across each decile of the Priority Places for Food Index (PPFI) from each retailer (n = 16), capturing food insecurity risk, and maximum coverage of store (store size) and store area characteristics (urban/rural status).\nControlled interrupted time-series will be used to estimate effects of the policy, with stores from Scotland and Wales (where the legislation has not been implemented) acting as controls.\n\n\n\nThis protocol sets out the first multiple-retailer independent analysis of the HFSS legislation, demonstrating how business digital footprints data can contribute to policy evaluation.\n\n\n\nOutcomes will include sales of HFSS products and changes to available product portfolios. We will explore whether legislation impacts were equitable across stores in areas with different demographic characteristics, according to the English Indices of Multiple Deprivation and the PPFI.\nFindings at the retailer and cross-retailer levels will inform sector-level insights regarding impact and potential next steps for policy and business practice.\n\n\n\nOur conclusions will contribute to policy-relevant discussions around the effectiveness of HFSS government policy, with potential to influence future decision-making across the UK Devolved Nations."
+  },
+  {
+    "objectID": "abstracts/HFSS.html#introduction-background",
+    "href": "abstracts/HFSS.html#introduction-background",
+    "title": "Has HFSS legislation led to healthier food and beverage sales? The DIO-Food protocol – using supermarket sales data for policy evaluation",
+    "section": "",
+    "text": "On 1 October 2022, new legislation came into force for England restricting the placement of some food and drink products high in fat, sugar and salt (HFSS). Products such as confectionery can no longer be placed at store entrances, ends of aisles, or at the checkout in large retail stores and their online equivalents."
+  },
+  {
+    "objectID": "abstracts/HFSS.html#objectives-approach",
+    "href": "abstracts/HFSS.html#objectives-approach",
+    "title": "Has HFSS legislation led to healthier food and beverage sales? The DIO-Food protocol – using supermarket sales data for policy evaluation",
+    "section": "",
+    "text": "Our protocol sets out how daily sales and product data from multiple retailers will be used to evaluate the legislation’s success in relation to HFSS sales, product portfolios and equitability. Food and drink sales data from 18 months pre- and 12 months post-introduction of the policy will be gained from multiple large UK retailers. Online sales are excluded.\nEligible stores were defined as supermarkets from our partner retailer brands with store areas larger than 280 square metres. From the eligible store sample, we selected 160 intervention stores (England) and 50 control stores (Scotland and Wales) from each partner retailer.\nThe sample provides equal store numbers across each decile of the Priority Places for Food Index (PPFI) from each retailer (n = 16), capturing food insecurity risk, and maximum coverage of store (store size) and store area characteristics (urban/rural status).\nControlled interrupted time-series will be used to estimate effects of the policy, with stores from Scotland and Wales (where the legislation has not been implemented) acting as controls."
+  },
+  {
+    "objectID": "abstracts/HFSS.html#relevance-to-digital-footprints",
+    "href": "abstracts/HFSS.html#relevance-to-digital-footprints",
+    "title": "Has HFSS legislation led to healthier food and beverage sales? The DIO-Food protocol – using supermarket sales data for policy evaluation",
+    "section": "",
+    "text": "This protocol sets out the first multiple-retailer independent analysis of the HFSS legislation, demonstrating how business digital footprints data can contribute to policy evaluation."
+  },
+  {
+    "objectID": "abstracts/HFSS.html#results",
+    "href": "abstracts/HFSS.html#results",
+    "title": "Has HFSS legislation led to healthier food and beverage sales? The DIO-Food protocol – using supermarket sales data for policy evaluation",
+    "section": "",
+    "text": "Outcomes will include sales of HFSS products and changes to available product portfolios. We will explore whether legislation impacts were equitable across stores in areas with different demographic characteristics, according to the English Indices of Multiple Deprivation and the PPFI.\nFindings at the retailer and cross-retailer levels will inform sector-level insights regarding impact and potential next steps for policy and business practice."
+  },
+  {
+    "objectID": "abstracts/HFSS.html#conclusions-implications",
+    "href": "abstracts/HFSS.html#conclusions-implications",
+    "title": "Has HFSS legislation led to healthier food and beverage sales? The DIO-Food protocol – using supermarket sales data for policy evaluation",
+    "section": "",
+    "text": "Our conclusions will contribute to policy-relevant discussions around the effectiveness of HFSS government policy, with potential to influence future decision-making across the UK Devolved Nations."
   }
 ]

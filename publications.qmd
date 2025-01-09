@@ -7,6 +7,7 @@ listing:
   contents: 
     - blog_posts 
     - publications
+    - abstracts
   sort: 
     - "date"
   categories: true

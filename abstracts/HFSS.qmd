@@ -1,0 +1,47 @@
+---
+title: "Has HFSS legislation led to healthier food and beverage sales? The DIO-Food protocol – using supermarket sales data for policy evaluation"
+author:  Victoria Jenneson, Francesca Pontin, Emily Ennis, Alison Fildes, Michelle Morris, 
+categories: [Published abstract]
+date: 2024-06-10
+doi: "doi.org/10.23889/ijpds.v9i4.2426" 
+keywords: 
+    - Supermarket Data
+    - Protocol
+    - Legislation
+    - Dietary health
+citation: 
+    publisher: "International Journal of Population Data Science"
+    volume: 9(4)
+---
+
+# Abstract
+## Introduction & Background
+On 1 October 2022, new legislation came into force for England restricting the placement of some food and drink products high in fat, sugar and salt (HFSS). Products such as confectionery can no longer be placed at store entrances, ends of aisles, or at the checkout in large retail stores and their online equivalents.
+
+
+## Objectives & Approach
+Our protocol sets out how daily sales and product data from multiple retailers will be used to evaluate the legislation’s success in relation to HFSS sales, product portfolios and equitability. Food and drink sales data from 18 months pre- and 12 months post-introduction of the policy will be gained from multiple large UK retailers. Online sales are excluded.
+
+
+Eligible stores were defined as supermarkets from our partner retailer brands with store areas larger than 280 square metres. From the eligible store sample, we selected 160 intervention stores (England) and 50 control stores (Scotland and Wales) from each partner retailer.
+
+
+The sample provides equal store numbers across each decile of the Priority Places for Food Index (PPFI) from each retailer (n = 16), capturing food insecurity risk, and maximum coverage of store (store size) and store area characteristics (urban/rural status).
+
+
+Controlled interrupted time-series will be used to estimate effects of the policy, with stores from Scotland and Wales (where the legislation has not been implemented) acting as controls.
+
+
+## Relevance to Digital Footprints
+This protocol sets out the first multiple-retailer independent analysis of the HFSS legislation, demonstrating how business digital footprints data can contribute to policy evaluation.
+
+
+## Results
+Outcomes will include sales of HFSS products and changes to available product portfolios. We will explore whether legislation impacts were equitable across stores in areas with different demographic characteristics, according to the English Indices of Multiple Deprivation and the PPFI.
+
+
+Findings at the retailer and cross-retailer levels will inform sector-level insights regarding impact and potential next steps for policy and business practice.
+
+
+## Conclusions & Implications
+Our conclusions will contribute to policy-relevant discussions around the effectiveness of HFSS government policy, with potential to influence future decision-making across the UK Devolved Nations.
