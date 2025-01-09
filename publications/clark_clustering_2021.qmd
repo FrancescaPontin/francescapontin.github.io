@@ -1,26 +1,28 @@
 ---
-title: ""
-author: comma seperated, authors
+title: "Clustering Accelerometer Activity Patterns from the UK Biobank Cohort"
+author: Stephen Clark,  Nik Lomax, Michelle Morris, Francesca Pontin, and Mark Birkin.
 categories: [Journal Article]
-date: 2025-01-01
-doi: "" 
+date: 2021-12-09
+doi: "10.3390/s21248220" 
 keywords: 
-    - Example 1
-    - Example 2
+    - UK Biobank
+    - Wearables
+    - Clustering
 citation: 
-    publisher: ""
+    publisher: "Sensors"
+    volume: 21(24)
 ---
-Button to download PDF
+
 <button id="download-btn" onclick="downloadPDF()">Download PDF</button>
 <!-- JavaScript function to handle the download -->
 <script>
 function downloadPDF() {
    // Path to your PDF file (relative)
-   var pdfPath = '../paper_pdf_jpeg/AAAA.pdf';
+   var pdfPath = '../paper_pdf_jpeg/clark_clustering_2021.pdf';
    // Create a temporary link to trigger the download
    var link = document.createElement('a');
    link.href = pdfPath;
-   link.download = 'AAAAA.pdf';  // Optionally, specify the file name
+   link.download = 'clark_clustering_2021.pdf';  // Optionally, specify the file name
    // Append the link to the body (required for it to work in some browsers)
    document.body.appendChild(link);
    // Trigger the click event to start the download
@@ -31,7 +33,7 @@ function downloadPDF() {
 </script>
 
 
-![](../paper_pdf_jpeg/AAAAA.jpg){width="595"}
+![](../paper_pdf_jpeg/clark_clustering_2021.jpg){width="595"}
 
 
 

@@ -1,0 +1,51 @@
+---
+title: "Progress towards using linked population-based data for geohealth research: Comparisons of Aotearoa New Zealand and the United Kingdom"
+author: 
+- Rachel Oldroyd
+- Matthew Hobbs
+- Malcolm Campbell
+- Victoria Jenneson
+- Lucas Marek
+- Michelle Morris
+- Francesca Pontin
+- Charlotte Sturley
+- Melanie Tomintz
+- Jesse Wiki
+- Mark Birkin
+- Simon Kingham
+- Matthew Wilson 
+categories: [Journal Article]
+date: 2021-04-29
+doi: "10.1007/s12061-021-09426-y" 
+keywords: 
+    - Linked data
+citation: 
+    publisher: "Applied Spatial Analysis and Policy"
+    volume: 14
+    type: article-journal
+---
+Button to download PDF
+<button id="download-btn" onclick="downloadPDF()">Download PDF</button>
+<!-- JavaScript function to handle the download -->
+<script>
+function downloadPDF() {
+   // Path to your PDF file (relative)
+   var pdfPath = '../paper_pdf_jpeg/oldroyd_progress_2021.pdf';
+   // Create a temporary link to trigger the download
+   var link = document.createElement('a');
+   link.href = pdfPath;
+   link.download = 'oldroyd_progress_2021.pdf';  // Optionally, specify the file name
+   // Append the link to the body (required for it to work in some browsers)
+   document.body.appendChild(link);
+   // Trigger the click event to start the download
+   link.click();
+   // Remove the link from the DOM after the download starts
+   document.body.removeChild(link);
+}
+</script>
+
+
+![](../paper_pdf_jpeg/oldroyd_progress_2021.jpg){width="595"}
+
+
+
